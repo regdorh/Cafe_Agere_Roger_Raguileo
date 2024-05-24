@@ -1,0 +1,22 @@
+.contenedor-uno{
+    display: flex;
+    position: absolute;
+    top: 255px;
+    left: 450px;
+    background-color: $color-white;
+    padding: 15px 35px;
+}
+
+.contenedor-uno h2{
+    font-family: $ptmono;
+}
+
+.contenedor-uno p{
+    font-family: $roboto;
+}
+
+.contenedor-uno__cajas{
+    height: 68px;
+    width: 150px;
+    padding: 0px;
+}

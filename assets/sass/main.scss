@@ -1,0 +1,26 @@
+$color-isabelline: #EEEDED;
+$color-shinyshamrock: #4CA866;
+$color-lightredochre: #E87554;
+$color-buff: #F1DD7B;
+$color-bluejeans: #5FA5EA;
+$color-spanishgray: #989797;
+$color-white: #FFF;
+$color-black: #000000;
+$color-coral: #FFC700;
+$color-bluedefrance: #3C91E6;
+$color-pastelgray: #BDDFC7;
+$color-turquoisegreen: #9DCFAB;
+
+$ptmono: "PT Mono", monospace;
+$roboto: "Roboto", sans-serif;
+
+
+@import './base/resets';
+@import './layout/aside';
+@import './layout/header';
+@import './layout/main';
+@import './layout/section';
+@import './components/navbar';
+@import './components/caja-naranja';
+@import './components/caja-amarilla';
+@import './components/contenedor-uno';
